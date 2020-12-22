@@ -1,0 +1,28 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Priyank Hajela",
+            "email": "priyank@gmail.com",
+            "phone": "8976775436"
+        },
+        {
+            "id": 2,
+            "name": "Jai Kaushil",
+            "email": "kaushil.jai@gmail.com",
+            "phone": "9877890900"
+        },
+        {
+            "id": 3,
+            "name": "Joesph Martin",
+            "email": "martin.joe@gmail.com",
+            "phone": "7689076512"
+        },
+        {
+            "id": 4,
+            "name": "John Murphy",
+            "email": "murphy@gmail.com",
+            "phone": "9878654561"
+        }
+    ]
+}
