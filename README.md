@@ -8,7 +8,7 @@ This project is focussed on experimenting with Redux library with React.
 
 Other libraries used in the project are react-router-dom, sass, react-avatar.
 
-Features of the application: You may add, remove, edit or delete the contact.
+Features of the application: You may add, remove or edit the contact.
 
 The website UI is developed using SASS and Bootstrap.
 
